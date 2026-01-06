@@ -1,4 +1,4 @@
-# Set up your Viam Rover
+# Step 3: Set up your Viam Rover
 Here, you'll finish setting up the Rover's power source, set the low voltage cutoff circuit, and mount the Raspberry Pi onto the motherboard.
 
 ## Add the power supply
